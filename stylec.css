@@ -1,0 +1,20 @@
+li.main{
+    display: inline;
+    color: purple;
+}
+
+body {
+    background-color: aqua;
+    background-image: url("https://media.istockphoto.com/id/2154167230/photo/beautiful-background-image-of-the-coast-of-a-tropical-island-turning-into-the-endless-expanse.jpg?s=2048x2048&w=is&k=20&c=taSb-uqIP9PZJTovgl5eDbsFxJUFpC6kF9OfadXK1SQ=");
+}
+
+h1 {
+    font-size: xx-large;
+    color: red;
+}
+
+a {
+    padding-left: 7px;
+    padding-right: 1px;
+    text-decoration: none;
+}
